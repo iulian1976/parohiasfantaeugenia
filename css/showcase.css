@@ -225,7 +225,7 @@ html {
 
 .main-content .section-color.services {
   padding: 100px;
-  background-color: #43485c;
+  background-color: #CD853F;     
   color: white;
 }
 
@@ -337,3 +337,17 @@ html {
 
 .white
 {color:ghostwhite}
+
+.select option
+{      
+  color: red;
+}
+.select option[value="1"]   
+{
+ 
+}
+
+.select option[value="2"]
+{
+  
+}
